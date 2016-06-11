@@ -1,29 +1,9 @@
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
-
-- title: Moon Jekyll Theme
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+- title: Community Hub for The Division
+  url: https://play.google.com/store/apps/details?id=com.opencabinetlabs.divisioncommunityhub&hl=en
+  image: https://lh3.googleusercontent.com/wX_Jyy2EupD_g-3RsvfDIkyGRje3fFlgVmcSL3f-Ip2jGPOEUCKmMfL0cjLCZz1lHys=w500-rw
   completed: true
 
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+- title: Community Hub for Destiny
+  url: https://play.google.com/store/apps/details?id=com.opencabinetlabs.destinycommunityhub&hl=en
+  image: https://lh4.ggpht.com/DfEBLNXr5AKtRwaizSU8jTC-vs9DcD2DWh9yArolzef00zjwe4DYsMtcWFZr1BToZy4=w500-rw
   completed: true
-
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
-  completed: true
-
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
-  completed: false
-
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: false
